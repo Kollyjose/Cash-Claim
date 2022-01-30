@@ -1,0 +1,27 @@
+<Project>
+  <PropertyGroup>
+    <Title>Cash claim</Title>
+    <Version>0.1-preview.1</Version>
+    <Authors>Godwin peter .O</Authors>
+    <Description>An expense remuneration management system</Description>
+    <RepositoryType>git</RepositoryType>
+    <RepoRoot>$(MSBuildThisFileDirectory)</RepoRoot>
+    <RepositoryUrl>https://github.com/gpproton/x-claim</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/gpproton/x-claim</PackageProjectUrl>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <LicenseFile>$(MSBuildThisFileDirectory)LICENSE</LicenseFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>© x-claim Contributors. All rights reserved.</Copyright>
+    <ContinuousIntegrationBuild Condition="'$(GITHUB_ACTIONS)' == 'true'">True</ContinuousIntegrationBuild>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>11</LangVersion>
+    <!-- TODO: Enable when in public release -->
+    <!-- <UseArtifactsOutput>true</UseArtifactsOutput> -->
+  </PropertyGroup>
+
+</Project>
