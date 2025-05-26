@@ -41,6 +41,6 @@ Cash claim is license under the [MIT License](./LICENSE.md)
 
 [![MIT License](https://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](./LICENSE.md)
 
-- Agboola A Solomon ([abiodun@drolx.com](mailto:mis.dev@tolaram.com))
-- Godwin peter .O ([me@godwin.dev](mailto:me@godwin.dev))
+- Kolawole Joseph ([kollyjose@drolx.com](mailto:me@kollyjose.dev))
+- James Peter .A ([me@jamespeter.dev](mailto:me@jamespeter.dev))
 
